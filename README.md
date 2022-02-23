@@ -1,6 +1,6 @@
 # RobotsFactory
-A small puzzle game made with unity
-check it out: https://rtft-af39b.firebaseapp.com/
+A small puzzle game made with unity.
+Check it out: https://rtft-af39b.firebaseapp.com/
 
 GAMEPLAY
 
