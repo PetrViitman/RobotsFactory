@@ -1,0 +1,6 @@
+robot_icon 0 0 512 512
+robot_icon_blick 0 512 512 512
+robot_icon_platform 512 0 512 512
+button 1024 0 512 512
+button_options 1792 0 256 256
+firefly 1984 256 64 64
